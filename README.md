@@ -1,6 +1,6 @@
 #Bài tập môn react
 
-##Lý thuyết
+##Lý Thuyết
 1. [ Câu 9 ](https://codepen.io/Phamdoanminhkhoi/pen/bGKerLQ)
 2. [ Câu 10 ](https://codepen.io/Phamdoanminhkhoi/pen/QWxEMGJ)
 3. [ Câu 11 ](https://codepen.io/Phamdoanminhkhoi/pen/ZEReZJv)
@@ -12,7 +12,7 @@
 9. [ Câu 16 ](https://codepen.io/Phamdoanminhkhoi/pen/BaVrOqZ)
 10. [ Câu 17 ](https://codepen.io/Phamdoanminhkhoi/pen/XWYExvj)
 
-##Thực hành
+##Thực Hành
 1. [ Bài thực hành pros và state ](
 2. [ Bài thực hành số 1 ](
 3. 
