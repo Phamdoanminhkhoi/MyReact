@@ -17,6 +17,6 @@
 14. [ Câu 21 ](https://codepen.io/Phamdoanminhkhoi/pen/LYrapXM)
 
 ##Thực Hành
-1. [ Bài thực hành pros và state ](
+1. [ Bài thực hành pros và state ](https://codepen.io/Phamdoanminhkhoi/pen/YzvgbEQ)
 2. [ Bài thực hành số 1 ](
 3. 
